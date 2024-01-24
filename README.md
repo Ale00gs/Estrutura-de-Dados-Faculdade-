@@ -11,8 +11,7 @@
 
 <div align="center">
 
-  [![HTML](https://img.shields.io/badge/Feito%20com-HTML-purple)](#) 
-  [![JS](https://img.shields.io/badge/Feito%20com-JS-purple)](#)    
+  [![C#](https://img.shields.io/badge/Feito%20com-CSharp-purple)](#) 
 
 </div>
 

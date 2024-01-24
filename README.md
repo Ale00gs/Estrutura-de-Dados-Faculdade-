@@ -16,7 +16,16 @@
 
 </div>
 
-<p align="center"> Aqui estão alguns exercícios que fiz durante as aulas de Estrutura de Dados, </br> na faculdade de Análise e Desenvolvimento de Sistemas. </p>
+<p align="center"> 
+  Aqui estão alguns exercícios na linguagem C#, que fiz durante as aulas de Estrutura de Dados, 
+  </br> na faculdade de Análise e Desenvolvimento de Sistemas. </br>
+
+    1º Calcular a potência de um número 
+    2º Calcular o cubo de um número 
+    3º Calcular o MDC de um número 
+    4º Cálculo Fibonacci
+    5º Conversão de um número inteiro para binário 
+</p>
 
 ## Contato
 

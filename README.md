@@ -5,7 +5,7 @@
 </p>
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=soft&text=⭐️ESTRUTURA%20DE%20DADOS%20⭐&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&height=100)
+![header](https://capsule-render.vercel.app/api?type=soft&text=⭐️RECURSIVIDADE⭐&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&height=100)
 
 </div>
 
@@ -16,14 +16,13 @@
 </div>
 
 <p align="center"> 
-  Aqui estão alguns exercícios na linguagem C#, que fiz durante as aulas de Estrutura de Dados, 
-  </br> na faculdade de Análise e Desenvolvimento de Sistemas. </br>
+  Compartilho a seguir alguns exercícios de recursividade em C# que elaborei durante as aulas de Estrutura de Dados, </br> no curso de Análise e Desenvolvimento de Sistemas. 
 
-    1º Calcular a potência de um número 
-    2º Calcular o cubo de um número 
-    3º Calcular o MDC de um número 
-    4º Cálculo Fibonacci
-    5º Conversão de um número inteiro para binário 
+          1º Calcular a potência de um número 
+          2º Calcular o cubo de um número 
+          3º Calcular o MDC de um número 
+          4º Cálculo Fibonacci
+          5º Conversão de um número inteiro para binário 
 </p>
 
 ## Contato

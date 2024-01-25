@@ -16,7 +16,7 @@
 </div>
 
 <p align="center"> 
-  Compartilho a seguir alguns exercícios de recursividade em C# que elaborei durante as aulas de Estrutura de Dados, </br> no curso de Análise e Desenvolvimento de Sistemas. 
+  Compartilho a seguir alguns exercícios de recursividade em C# que elaborei durante as aulas de Estrutura de Dados, no curso de Análise e Desenvolvimento de Sistemas. 
 
           1º Calcular a potência de um número 
           2º Calcular o cubo de um número 
